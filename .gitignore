@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Publish/
+/.vs/
+/ProjetoBase/bin/
+/ProjetoBase/obj/
+/ProjetoBase/wwwroot/temp
+/ProjetoBase.App/bin/
+/ProjetoBase.App/obj/
+/ProjetoBase.Domain/bin/
+/ProjetoBase.Domain/obj/
+/ProjetoBase.Infra/bin/
+/ProjetoBase.Infra/obj/
+obj
+appsettings.json
+/.idea/
+*.user
+/ProjetoBase/.config
